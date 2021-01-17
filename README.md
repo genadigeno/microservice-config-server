@@ -1,7 +1,7 @@
 # config server
 Spring Cloud Config Server (Spring Boot 2.x)
 
--- We do not need source code for config server, only app.properties, but I pulled it in order to show example.
+-- We do not need source code for config server, only app.properties, but I pulled it in order to show example. --
 
 Microservice Achitecture:
 
